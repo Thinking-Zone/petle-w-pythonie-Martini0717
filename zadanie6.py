@@ -1,1 +1,1 @@
-#Pętla while powtarza coś dopóki warunek nie zostanie spełniony, a if robi jedną konkretną rzecz. To jak jakby powiedzieć gotuj mleko, dopóki nie wykipi (while), albo ugotuj mleko chyba że go nie mamy to ugotuj wodę(if,else).
+#Pętla while powtarza coś dopóki warunek nie zostanie spełniony, a for powtarza coś dla kilku rzeczy, elementów, albo daną ilość razy. To jak jakby powiedzieć gotuj mleko, dopóki nie wykipi (while), 
